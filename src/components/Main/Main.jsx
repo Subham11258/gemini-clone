@@ -9,7 +9,7 @@ import { Context } from '../../context/Context'
   return (
     <div className="main">
         <div className="nav">
-            <p>Gemini</p>
+            <p>AI BABA</p>
             <img src={assets.user_icon} alt=""/>
         </div>
         <div className='main-container'>
